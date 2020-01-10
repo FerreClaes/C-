@@ -1,0 +1,12 @@
+release/bishop.o
+release/chessboard.o
+release/chessbox.o
+release/chesspiece.o
+release/game.o
+release/king.o
+release/knight.o
+release/main.o
+release/pawn.o
+release/queen.o
+release/rook.o
+release/moc_game.o

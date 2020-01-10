@@ -1,0 +1,12 @@
+debug/bishop.o
+debug/chessboard.o
+debug/chessbox.o
+debug/chesspiece.o
+debug/game.o
+debug/king.o
+debug/knight.o
+debug/main.o
+debug/pawn.o
+debug/queen.o
+debug/rook.o
+debug/moc_game.o
